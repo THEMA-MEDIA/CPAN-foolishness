@@ -13,3 +13,37 @@ off all the hassle to go through to do things right.
 
 
 Theo
+
+=About the module
+
+it's a celebration to be back in the game, after two years of sick-leave
+to be able to run your own company again. And yes much has changed in
+twenty years time. But I still love my old-school green-TTY look-and-feel.
+
+So, I had a great offer to order some printed t-shirts and was going to
+order one with my company-logo. Another option was embroidered polo's...
+I really like those and then I simply couldn't resist when I saw the dark
+green polo's that I could have light green letters on it...
+
+- a company T-polo shirt
+- dark green
+- light green front that would look like real code
+- it should be about Perl
+- it needed my company name
+- a mini program that promotes Modern Perl
+
+  
+  #! /usr/bin/env perl
+  
+  use strict;
+  use warnings;
+  
+  use v5.20.1;
+  use feature "signatures";
+  
+  use THEMA::MEDIA;
+
+there it was... I only needed a CPAN module now...
+
+I will take orders to make bulk shirts... with another bottom-line,
+please contact me for more info.
