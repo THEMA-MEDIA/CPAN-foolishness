@@ -32,8 +32,8 @@ green polo's that I could have light green letters on it...
 * it needed my company name
 * a 9 line mini program that promotes Modern Perl
 
-  
-    /usr/bin/env perl
+```perl  
+    #!/usr/bin/env perl
     
     use strict;
     use warnings;
@@ -42,7 +42,7 @@ green polo's that I could have light green letters on it...
     use feature "signatures";
     
     use THEMA::MEDIA;
-
+```
 there it was... I only needed a CPAN module now...
 
 I will take orders to make bulk shirts... with another bottom-line,
