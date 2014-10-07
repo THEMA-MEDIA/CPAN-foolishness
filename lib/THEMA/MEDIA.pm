@@ -1,5 +1,7 @@
 package THEMA::MEDIA;
 
+our $VERSION = 2014.1002_001;
+
 =head1 NAME
 
 THEMA-MEDIA - Providing solutions with Modern Perl
