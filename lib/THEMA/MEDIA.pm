@@ -33,6 +33,7 @@ But THEMA-MEDIA still provides solutions based on proven technologies
 
 none, there is no code yet
 
+
 =cut
 
 
@@ -68,6 +69,28 @@ This library is free software; you can redistribute it and/or modify
 it under the same licence as Perl itself.
 
 =cut
+
+print <<BANNER_END;
+
+             _______             
+            |       |            
+            |       |  _______   
+   _______  |       | |       |  
+  |       | |_______| |       |  
+  |       |  _______  |       |  
+  |       | |       | |_______|  
+  |_______| |       |  _______   
+   _______  |       | |       |  
+  |       | |_______| |       |  
+  |       |  _______  |       |  
+  |       | |       | |_______|  
+  |_______| |       |            
+            |       |            
+            |_______|            
+                                 
+  (c) 1994 - 2014   THEMA-MEDIA  
+                                 
+BANNER_END
 
 1;
 
